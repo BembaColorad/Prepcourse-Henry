@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Este es un repositorio del modulo 2 del prepcourse henry
+Diana Rueda y esta
+es una muestra de un repositorio 
